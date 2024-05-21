@@ -1,0 +1,28 @@
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.exe
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.deps.json
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.runtimeconfig.json
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.dll
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.pdb
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.AssemblyInfoInputs.cache
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.AssemblyInfo.cs
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.csproj.CoreCompileInputs.cache
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.dll
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\refint\TestBankIndonesia.dll
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.pdb
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.genruntimeconfig.cache
+C:\Test\BI\TestBankIndonesia\TestBankIndonesia\obj\Debug\net8.0\ref\TestBankIndonesia.dll
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.AssemblyInfoInputs.cache
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.AssemblyInfo.cs
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.csproj.CoreCompileInputs.cache
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.dll
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\refint\TestBankIndonesia.dll
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.pdb
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.exe
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.deps.json
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.runtimeconfig.json
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.dll
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\bin\Debug\net8.0\TestBankIndonesia.pdb
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\TestBankIndonesia.genruntimeconfig.cache
+C:\Test\BI\TestBI N0 1, 2, 3\TestBankIndonesia\obj\Debug\net8.0\ref\TestBankIndonesia.dll

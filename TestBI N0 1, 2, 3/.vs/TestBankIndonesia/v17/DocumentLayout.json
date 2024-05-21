@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Test\\BI\\TestBI N0 1, 2, 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5A3D32-59D1-4ED3-BFBD-64CB2D34606C}|TestBankIndonesia\\TestBankIndonesia.csproj|c:\\test\\bi\\testbi n0 1, 2, 3\\testbankindonesia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5A3D32-59D1-4ED3-BFBD-64CB2D34606C}|TestBankIndonesia\\TestBankIndonesia.csproj|solutionrelative:testbankindonesia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Test\\BI\\TestBI N0 1, 2, 3\\TestBankIndonesia\\Program.cs",
+              "RelativeDocumentMoniker": "TestBankIndonesia\\Program.cs",
+              "ToolTip": "C:\\Test\\BI\\TestBI N0 1, 2, 3\\TestBankIndonesia\\Program.cs",
+              "RelativeToolTip": "TestBankIndonesia\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T05:31:34.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
